@@ -1,2 +1,2 @@
 # CP-CF
-My Codeforces submissions :)
+My CP submissions (mostly codeforces) :)
